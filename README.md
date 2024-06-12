@@ -2,7 +2,7 @@
 
 # Pricing Page
 ## Dive into the project
-[<img src="./price.ico" width="60px" alt="pricing-page-icon">](https://niwashkumarmandal.github.io/Pricing-Page/)<span><em>(Tap on Pricing tag icon to view the project)</em></span>
+[<img src="./price.ico" width="60px" alt="pricing-page-icon">](https://utkarshhjha.github.io/Price-landing/)<span><em>(Tap on Pricing tag icon to view the project)</em></span>
 
 ## Overview:
 A modern and interactive pricing page for a cloud storage service, built with HTML, CSS, and JavaScript. The page features three distinct plans: Basic, Standard, and Premium, and includes toggles for switching between monthly and yearly billing cycles, as well as between USD and INR currency.
